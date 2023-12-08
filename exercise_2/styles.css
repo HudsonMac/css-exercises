@@ -1,0 +1,19 @@
+.red {
+    background-color: rgba(255,0,0,0.5);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #0d00ff;
+    font-size: 36px;
+}
+
+.font {
+    font-size: 24;
+}
+
+#fourth {
+    background-color: rgba(0,255,0,0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
